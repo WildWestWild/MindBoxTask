@@ -1,4 +1,4 @@
-﻿namespace TaskMindBox.Figures;
+﻿namespace TaskMindBox;
 
 internal interface ISquarable
 {
