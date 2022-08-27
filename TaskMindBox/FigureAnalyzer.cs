@@ -33,7 +33,7 @@ public static class FigureAnalyzer
     }
 
     /// <summary>
-    /// Определяет, является ли треугольник равнобедренным
+    /// Определяет, является ли треугольник прямоугольным
     /// </summary>
     /// <param name="aSide"></param>
     /// <param name="bSide"></param>
